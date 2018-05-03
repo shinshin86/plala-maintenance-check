@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "node check.js chiba"
+  },
+  "dependencies": {
+    "jsdom": "^11.10.0",
+    "request": "^2.85.0"
+  }
+}
